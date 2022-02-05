@@ -2,7 +2,7 @@
 
 #### I'm Connor! A full-stack developer from Chicago
 
-- 🛠 Currently, I'm working on [Dart Mule](https://beta.dartmule.com/), a dart score keeping app that allows users to... 
+- 🛠 Currently, I'm working on a side-project called [Dart Mule](https://beta.dartmule.com/), a dart score keeping app that allows users to... 
   - Invite 🎉 friends, 
   - Create ***private*** games, 
   - Keep score in ***real-time ⏱***, 
