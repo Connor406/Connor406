@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Connor! A full-stack developer from Chicago
+#### I'm Connor! Welcome to my profile
 
 - 🛠 Currently, I'm working on a side-project called [Dart Mule](https://beta.dartmule.com/), a dart score keeping app that allows users to... 
   - Invite 🎉 friends, 
