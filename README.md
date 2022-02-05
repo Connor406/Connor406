@@ -12,7 +12,7 @@
 - 🌱 Right now, I'm learning Node, TypeScript, GraphQL, and working on my guitar skills 🤘
 
 
-... that's enough emojis for one paragraph. Feel free to reach out! You can find my contact info at [ConnorCodes.com](https://connorcodes.com)
+... that's enough emojis for one paragraph. Feel free to reach out if you see anything you like!
 
 <!--
 **Connor406/Connor406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
