@@ -11,6 +11,9 @@
 
 - 🌱 Right now, I'm learning Node, TypeScript, GraphQL, and working on my guitar skills 🤘
 
+
+... that's enough emojis for one paragraph.
+
 <!--
 **Connor406/Connor406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
