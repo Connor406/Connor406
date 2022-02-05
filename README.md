@@ -3,11 +3,10 @@
 - Full stack developer at [Agrograph](https://agrograph.com/)
 
 - 🛠 Currently, I'm working on a side-project called [Dart Mule](https://beta.dartmule.com/), a dart score keeping app that allows users to... 
-  - Invite 🎉 friends, 
-  - Create ***private*** games, 
-  - Keep score in ***real-time ⏱***, 
-  - Track ***wins 🥇*** and ***losses***,
-  - and earn ***points*** for victories!
+  - Create private games with friends,
+  - Keep score in **real-time ⏱**, 
+  - Track **wins 🥇** and **losses**,
+  - and earn points for victories!
 
 - 🌱 Right now, I'm learning Node, TypeScript, GraphQL, and working on my guitar skills 🤘
 
