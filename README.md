@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### I'm Connor! Welcome to my profile
+### Hi there 👋 I'm Connor!
 
 - 🛠 Currently, I'm working on a side-project called [Dart Mule](https://beta.dartmule.com/), a dart score keeping app that allows users to... 
   - Invite 🎉 friends, 
