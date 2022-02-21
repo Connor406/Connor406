@@ -8,7 +8,7 @@
   - Track **wins 🥇** and **losses**,
   - and earn points for victories!
 
-- 🌱 Right now, I'm learning Node, TypeScript, GraphQL, and working on my guitar skills 🤘
+- 🌱 Right now, I'm learning Node, TypeScript, ThreeJS, and working on my guitar skills 🤘
 
 
 ... that's enough emojis for one paragraph. Feel free to reach out if you see anything you like!
