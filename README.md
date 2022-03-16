@@ -2,7 +2,7 @@
 
 - Full stack developer at [Agrograph](https://agrograph.com/)
 
-- 🛠 Currently, I'm working on a side-project called [Dart Mule](https://beta.dartmule.com/), a dart score keeping app that allows users to... 
+- 🛠 Currently, I'm working on a side-project called [Dart Mule](https://dartmule.com/), a dart score keeping app that allows users to... 
   - Create private games with friends,
   - Keep score in **real-time ⏱**, 
   - Track **wins 🥇** and **losses**,
