@@ -1,6 +1,6 @@
 ### Hi there, I'm Connor! 👋
 
-- Full stack developer at [Agrograph](https://agrograph.com/)
+- Full stack developer 
 
 - 🛠 Currently, I'm working on a side-project called [Dart Mule](https://dartmule.com/), a dart score keeping app that allows users to... 
   - Create private games with friends,
