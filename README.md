@@ -1,7 +1,5 @@
 ### Hi there, I'm Connor! 👋
 
-- ... really more of a BitBucket guy these days
-
 - 🛠 Currently, I'm working on a side-project called [Dart Mule](https://dartmule.com/), a dart score keeping app that allows users to... 
   - Create private games with friends,
   - Keep score in **real-time ⏱**, 
